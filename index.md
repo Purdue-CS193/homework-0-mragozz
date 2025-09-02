@@ -1,4 +1,11 @@
-## Hi there! Welcome to Megan's GitHub Pages.
+# Megan Ragozzino's First CS193 Homework
+## Some of my favorite things about my new CS193 class:
+- I get to learn new computing skills!
+- I have great lecturers!
+- I have class just once a week
+- I have friends in my class!
+
+
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
